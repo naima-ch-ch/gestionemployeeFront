@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "appgestionemployes"
+  "defaultProject": "appgestionemployes",
+  "cli": {
+    "analytics": "13225a22-2847-48f2-8f12-e1b907174be0"
+  }
 }
